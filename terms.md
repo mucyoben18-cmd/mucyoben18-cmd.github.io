@@ -6,7 +6,7 @@ title: Terms of Service - GTA6 Clipper
 
 Last updated: 16 November 2026
 
-GTA6 Clipper is a personal tool used only by the owner of the YouTube channel "Underrated Sports" to prepare and upload their own short videos to their own channel.
+GTA6 Clipper is a personal tool used only by the owner of the YouTube channel "Wasted Daily | GTA 6" to prepare and upload their own short videos to their own channel.
 
 - The app is not offered to the public, and no one else can sign in to it.
 - The app uses YouTube API Services. Use of YouTube through the app is subject to the [YouTube Terms of Service](https://www.youtube.com/t/terms) and the [Google Privacy Policy](https://policies.google.com/privacy).
