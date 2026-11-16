@@ -4,7 +4,7 @@ title: GTA6 Clipper
 
 # GTA6 Clipper
 
-GTA6 Clipper is a personal tool used by the owner of the YouTube channel "Underrated Sports" to turn long gaming videos into short vertical clips and upload them to that channel as YouTube Shorts.
+GTA6 Clipper is a personal tool used by the owner of the YouTube channel "Wasted Daily | GTA 6" to turn long gaming videos into short vertical clips and upload them to that channel as YouTube Shorts.
 
 It runs only on the owner's own computer. It is not a public service: no one else can sign in to it or use it.
 
