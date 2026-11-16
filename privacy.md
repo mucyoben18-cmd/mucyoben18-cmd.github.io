@@ -6,7 +6,7 @@ title: Privacy Policy - GTA6 Clipper
 
 Last updated: 16 November 2026
 
-GTA6 Clipper ("the app") is a personal tool run by the owner of the YouTube channel "Underrated Sports" on their own computer. This policy explains what the app accesses and how that information is handled.
+GTA6 Clipper ("the app") is a personal tool run by the owner of the YouTube channel "Wasted Daily | GTA 6" on their own computer. This policy explains what the app accesses and how that information is handled.
 
 ## YouTube API Services
 
